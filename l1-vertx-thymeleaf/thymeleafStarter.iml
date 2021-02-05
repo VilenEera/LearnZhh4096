@@ -6,10 +6,13 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-jdk14:1.7.21" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
     <orderEntry type="library" name="Maven: io.vertx:vertx-web-templ-thymeleaf:4.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf:3.0.11.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: ognl:ognl:3.1.12" level="project" />
@@ -17,6 +20,9 @@
     <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.21.0-GA" level="project" />
     <orderEntry type="library" name="Maven: io.vertx:vertx-web-common:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-web:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-auth-common:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.vertx:vertx-bridge-common:4.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.vertx:vertx-core:4.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.49.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.49.Final" level="project" />
@@ -31,9 +37,6 @@
     <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns:4.1.49.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-codec-dns:4.1.49.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.3" level="project" />
-    <orderEntry type="library" name="Maven: io.vertx:vertx-web:4.0.0" level="project" />
-    <orderEntry type="library" name="Maven: io.vertx:vertx-auth-common:4.0.0" level="project" />
-    <orderEntry type="library" name="Maven: io.vertx:vertx-bridge-common:4.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: io.vertx:vertx-junit5:4.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-params:5.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.4.0" level="project" />

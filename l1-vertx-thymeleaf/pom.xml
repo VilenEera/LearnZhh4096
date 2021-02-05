@@ -36,6 +36,13 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-jdk14</artifactId>
+      <version>1.7.21</version>
+    </dependency>
+
+
+    <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-web-templ-thymeleaf</artifactId>
     </dependency>
@@ -43,6 +50,11 @@
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-web</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-core</artifactId>
     </dependency>
 
     <dependency>
