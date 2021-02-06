@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="thymeleafStarter" />
+        <module name="l2-lealone-orm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="l2-lealone-orm" target="9" />
       <module name="thymeleafStarter" target="11" />
     </bytecodeTargetLevel>
   </component>
