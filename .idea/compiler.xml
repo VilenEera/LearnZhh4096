@@ -16,7 +16,7 @@
       <module name="l2-lealone-orm" target="9" />
       <module name="l2-runmode" target="1.7" />
       <module name="l3-runmode" target="1.8" />
-      <module name="l4-orm" target="1.7" />
+      <module name="l4-orm" target="1.8" />
       <module name="thymeleafStarter" target="11" />
     </bytecodeTargetLevel>
   </component>
