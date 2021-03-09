@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/l2-lealone-orm/src/main/resources/tables.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/l3-runmode/src/main/resources/tables.sql" dialect="H2" />
   </component>
 </project>

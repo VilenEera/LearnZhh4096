@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/l2-runmode" />
+    <file type="web" url="file://$PROJECT_DIR$/l3-runmode" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/l1-vertx-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/l2-lealone-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/l2-runmode/pom.xml" />
+        <option value="$PROJECT_DIR$/l3-runmode/pom.xml" />
+        <option value="$PROJECT_DIR$/l4-orm/pom.xml" />
       </list>
     </option>
   </component>

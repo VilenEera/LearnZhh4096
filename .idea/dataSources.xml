@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="lealone5 - jdbc:lealone:tcp://localhost:9210/test" uuid="65e2029f-db45-410b-ac6c-e8f26b1edb60">
+      <driver-ref>java.sql.Driver</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <schema-control>AUTOMATIC</schema-control>
+      <jdbc-driver>org.lealone.client.jdbc.JdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:lealone:tcp://localhost:9210/test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

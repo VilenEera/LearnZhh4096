@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="l3-runmode:war exploded">
+    <output-path>$PROJECT_DIR$/l3-runmode/target/l3-runmode</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>l3-runmode</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="l3-runmode" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/l3-runmode/target/l3-runmode/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="l3-runmode/web/Web" />
+    </root>
+  </artifact>
+</component>

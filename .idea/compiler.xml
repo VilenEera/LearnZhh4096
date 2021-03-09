@@ -6,12 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="l3-runmode" />
         <module name="thymeleafStarter" />
         <module name="l2-lealone-orm" />
+        <module name="l4-orm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="l2-lealone-orm" target="9" />
+      <module name="l2-runmode" target="1.7" />
+      <module name="l3-runmode" target="1.8" />
+      <module name="l4-orm" target="1.7" />
       <module name="thymeleafStarter" target="11" />
     </bytecodeTargetLevel>
   </component>

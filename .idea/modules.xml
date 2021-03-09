@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/l2-lealone-orm/l2-lealone-orm.iml" filepath="$PROJECT_DIR$/l2-lealone-orm/l2-lealone-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l3-runmode/l3-runmode.iml" filepath="$PROJECT_DIR$/l3-runmode/l3-runmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l4-orm/l4-orm.iml" filepath="$PROJECT_DIR$/l4-orm/l4-orm.iml" />
       <module fileurl="file://$PROJECT_DIR$/l1-vertx-thymeleaf/thymeleafStarter.iml" filepath="$PROJECT_DIR$/l1-vertx-thymeleaf/thymeleafStarter.iml" />
     </modules>
   </component>
